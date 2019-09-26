@@ -1,0 +1,10 @@
+\#*
+.*
+!.gitignore
+/backups
+*~
+eshell/*
+elpa/*
+*.data
+ido.last
+projectile-bookmarks.eld
