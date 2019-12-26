@@ -1,0 +1,4 @@
+inoremap jk <ESC>
+
+noremap ;; :%s:::g<Left><Left><Left>
+noremap ;' :%s:::cg<Left><Left><Left><Left>

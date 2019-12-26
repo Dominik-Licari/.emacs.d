@@ -11,9 +11,6 @@
 (use-package undo-tree
   :ensure t
   :pin gnu)
-;; (use-package evil 
-;;   :ensure t 
-;;   :pin marmalade)
 (use-package xclip
   :ensure t)
 (use-package decide
@@ -27,4 +24,10 @@
   :pin melpa)
 (use-package flycheck
   :ensure t)
-
+(use-package slime
+  :ensure t)
+(use-package evil
+  :ensure t
+  :pin melpa)
+(use-package lsp-java
+  :ensure t)

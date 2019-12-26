@@ -28,7 +28,7 @@
  '(org-agenda-files (quote ("~/todo.org")))
  '(package-selected-packages
    (quote
-    (autocomplete flycheck js2-mode web-mode emmet-mode decide markdown-mode md4rd xclip undo-tree TRAMP uniquify-files rainbow-delimiters projectile helm-smex ido-ubiquitous uniquify paredit evil use-package goto-last-change))))
+    (lsp-java LSP-java slime erlang erlang-mode mines hscroll befunge-mode trunicate-lines autocomplete flycheck js2-mode web-mode emmet-mode decide markdown-mode md4rd xclip undo-tree TRAMP uniquify-files rainbow-delimiters projectile helm-smex ido-ubiquitous uniquify paredit evil use-package goto-last-change))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
