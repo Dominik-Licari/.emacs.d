@@ -8,3 +8,4 @@ elpa/*
 *.data
 ido.last
 projectile-bookmarks.eld
+url/*

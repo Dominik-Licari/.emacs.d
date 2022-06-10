@@ -24,7 +24,7 @@
 ;; for a more technical explanation.
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (add-to-list 'load-path "~/.emacs.d/themes")
-;;(load-theme 'tomorrow-night-bright t)
+(load-theme 'tomorrow-night-bright t)
 
 ;; increase font size for better readability
 (set-face-attribute 'default nil :height 140)
@@ -66,4 +66,4 @@
 ;; no bell
 (setq ring-bell-function 'ignore)
 
-(load "~/.emacs.d/themes/tomorrow-night-theme.el")
+;; (load "~/.emacs.d/themes/tomorrow-night-theme.el")

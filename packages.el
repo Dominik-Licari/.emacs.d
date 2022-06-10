@@ -1,6 +1,6 @@
 (use-package paredit
   :ensure t)
-(use-package ido-ubiquitous
+(use-package ido-completing-read+
   :ensure t)
 (use-package helm-smex
   :ensure t)
@@ -26,8 +26,4 @@
   :ensure t)
 (use-package slime
   :ensure t)
-(use-package evil
-  :ensure t
-  :pin melpa)
-(use-package lsp-java
-  :ensure t)
+
